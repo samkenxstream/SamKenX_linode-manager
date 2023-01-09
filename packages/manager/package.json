@@ -56,7 +56,7 @@
     "jspdf-autotable": "^3.5.14",
     "launchdarkly-react-client-sdk": "2.11.0",
     "logic-query-parser": "^0.0.5",
-    "luxon": "^1.24.1",
+    "luxon": "^2.5.2",
     "markdown-it": "^12.3.2",
     "md5": "^2.2.1",
     "memoizee": "^0.4.14",
